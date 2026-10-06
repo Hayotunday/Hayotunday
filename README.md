@@ -11,7 +11,7 @@ I'm a developer with expertise in modern web technologies and blockchain develop
 ### Languages & Frameworks
 - **Frontend:** TypeScript, React, Next.js, HTML/CSS
 - **Backend:** JavaScript (Node.js), TypeScript
-- **Blockchain:** Solidity, Smart Contracts
+- **Blockchain:** Solidity, Smart Contracts, Foundry
 - **Databases:** Firebase, and other modern data solutions
 - **Other:** PHP, Python
 
@@ -20,6 +20,7 @@ I'm a developer with expertise in modern web technologies and blockchain develop
 - REST APIs
 - Firebase
 - Ethereum & Web3
+- Foundry (Smart Contract Testing & Development)
 
 ## 📂 Featured Projects
 
@@ -32,7 +33,22 @@ I'm a developer with expertise in modern web technologies and blockchain develop
 - **[Deliveroo Clone](https://github.com/Hayotunday/deliveroo-clone-app)** - Restaurant delivery platform
 - **[Coffee App](https://github.com/Hayotunday/coffee-app)** - Coffee ordering application
 
-### Blockchain & Web3
+### 🔗 Blockchain & Web3 - Foundry Projects
+
+Advanced smart contract projects using Foundry framework for testing and development:
+
+- **[Foundry Fund Me](https://github.com/Hayotunday/foundry-fund-me-course)** - Crowdfunding smart contract
+- **[Foundry DeFi Stablecoin](https://github.com/Hayotunday/foundry-defi-stablecoin)** - Stablecoin implementation with DeFi protocols
+- **[Foundry Upgrades](https://github.com/Hayotunday/foundry-upgrades)** - Upgradeable smart contracts using proxy patterns
+- **[Foundry Cross-Chain Token](https://github.com/Hayotunday/foundry-cross-chain-token)** - Cross-chain token bridge
+- **[Foundry Decentralized Raffle](https://github.com/Hayotunday/foundry-decentralized-raffle)** - Chainlink-based raffle system
+- **[Foundry Merkle Airdrop](https://github.com/Hayotunday/foundry-merkle-airdrop)** - Gas-optimized airdrop using Merkle trees
+- **[Foundry Multi-Sig Wallet](https://github.com/Hayotunday/foundry-multi-sig-wallet)** - Multi-signature wallet contract
+- **[Foundry Subscription Splitter](https://github.com/Hayotunday/foundry-subscription-splitter)** - Payment splitting contract
+- **[Foundry Timed Tip Jar](https://github.com/Hayotunday/foundry-timed-tip-jar)** - Time-locked tipping mechanism
+- **[Foundry Account Abstraction](https://github.com/Hayotunday/foundry-account-abstraction)** - ERC-4337 account abstraction implementation
+
+### Solidity Smart Contracts
 - **EtherAuthority Collection** - Smart contract projects learning series
   - Hello World contract
   - Simple Storage
@@ -49,18 +65,25 @@ I'm a developer with expertise in modern web technologies and blockchain develop
 - **[El Moore](https://github.com/Hayotunday/el-moore)** - Business management platform with marketer and management portals
 - **[Employee Management System](https://github.com/Hayotunday/employee-management-system-php)** - PHP-based HR solution
 
+### NFT & Web3
+- **[NFT Marketplace](https://github.com/Hayotunday/nft-marketplace-web)** - NFT trading platform
+
 ### Other Notable Projects
 - **[Bakery Website](https://github.com/Hayotunday/bakery-website-development)** - Commercial bakery web presence
 - **[Cars Hub](https://github.com/Hayotunday/cars-hub)** - Automotive marketplace
 - **[Crypto App](https://github.com/Hayotunday/crypto-app)** - Cryptocurrency tracking application
 - **[Century Bank](https://github.com/Hayotunday/century-bank)** - Banking application
+- **[3D Developer Portfolio](https://github.com/Hayotunday/project_3D_developer_portfolio)** - Interactive 3D portfolio
+- **[Portfolio Website](https://github.com/Hayotunday/portfolio-website-nextjs)** - Next.js portfolio
 
 ## 🎯 What I'm Passionate About
 
 - Building user-centric applications
 - Exploring blockchain technology and smart contracts
+- Advanced Solidity development with Foundry testing framework
 - Full-stack development with modern frameworks
 - Creating scalable backend systems
+- DeFi protocols and Web3 architecture
 - Learning new technologies and best practices
 - Contributing to open-source projects
 
