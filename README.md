@@ -2,7 +2,7 @@
 
 ### Full-Stack Software Developer | Web3 & Smart Contract Development | AI
 
-I'm a **4+ year software developer** focused on building production-oriented web applications, intelligent products, and blockchain systems.
+I'm a **software developer with 4+ years of experience** focused on building production-oriented web applications, intelligent products, and blockchain systems.
 
 My strongest experience is in **full-stack development**, particularly with **TypeScript, React, Next.js, Node.js, PostgreSQL, Supabase, and Firebase**. I enjoy taking an idea from architecture to implementation and building the frontend, backend, data layer, integrations, and user experience that bring it to life.
 
