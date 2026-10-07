@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel Idowu
 
-### Full-Stack Software Developer | Smart Contract Engineer in Progress | Web3 & AI
+### Full-Stack Software Developer | Web3 & Smart Contract Development | AI
 
 I'm a **4+ year software developer** focused on building production-oriented web applications, intelligent products, and blockchain systems.
 
